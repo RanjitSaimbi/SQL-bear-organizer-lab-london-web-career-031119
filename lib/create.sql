@@ -1,4 +1,6 @@
-CREATE TABLE (bears
+
+
+
   id INTEGER,
   name TEXT,
   age INTEGER,
@@ -6,4 +8,3 @@ CREATE TABLE (bears
   color TEXT,
   temprament TEXT,
   alive INTEGER
-  );
